@@ -9,3 +9,7 @@ print("La suma es " + str(suma))
 # Operación resta:
 resta = numero1 - numero2
 print("La resta es " + str(resta))
+
+# Operación multiplicación:
+multiplicacion = numero1 * numero2
+print("La multiplicación es " + str(multiplicacion))
