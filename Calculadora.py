@@ -13,3 +13,7 @@ print("La resta es " + str(resta))
 # Operación multiplicación:
 multiplicacion = numero1 * numero2
 print("La multiplicación es " + str(multiplicacion))
+
+# Operación división:
+division = numero1 / numero2
+print("La división es " + str(division))
