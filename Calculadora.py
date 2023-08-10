@@ -1,6 +1,8 @@
-# Definición de 2 variables enteras:
-numero1 = 11
-numero2 = 5
+# Lectura del valor de 2 variables enteras por consola:
+print("Ingrese el número 1")
+numero1 = int(input())
+print("Ingrese el número 2")
+numero2 = int(input())
 
 # Operación suma:
 suma = numero1 + numero2
