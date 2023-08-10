@@ -5,3 +5,7 @@ numero2 = 5
 # Operación suma:
 suma = numero1 + numero2
 print("La suma es " + str(suma))
+
+# Operación resta:
+resta = numero1 - numero2
+print("La resta es " + str(resta))
